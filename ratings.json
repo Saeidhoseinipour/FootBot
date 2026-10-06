@@ -1,0 +1,23 @@
+{
+  "Mohammd Hosein": {
+    "Dribbling": 10,
+    "Passing": 10,
+    "Finishing": 1,
+    "Pace": 9,
+    "Defending": 1
+  },
+  "Hani": {
+    "Dribbling": 8,
+    "Passing": 4,
+    "Finishing": 10,
+    "Pace": 1,
+    "Defending": 10
+  },
+  "Saeed": {
+    "Dribbling": 6,
+    "Passing": 3,
+    "Finishing": 10,
+    "Pace": 7,
+    "Defending": 6
+  }
+}
