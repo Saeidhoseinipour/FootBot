@@ -5,11 +5,11 @@
 # Keep the spellings exactly as written below.
 PLAYERS: dict[str, list[str]] = {
     "GK": ["Mohammd Hosein", "Hani"],
-    "CB": ["D Kazemi", "Amin"],
-    "RB": ["Mehrdad", "Amirhosein"],
+    "CB": ["Saeed", "Amin"],
+    "RB": ["Mehrdad", "Abasi"],
     "LB": ["Mehrzad", "Amir"],
     "CM": ["Nima", "Saeid"],
-    "RM": ["Milad", "Mosi"],
-    "FW": ["Sahand", "Ali"],
-    "LM": ["Mohammad", "Kazemi"],
+    "RM": ["Milad", "Kazemi"],
+    "FW": ["Sahand", "Navid"],
+    "LM": ["Mohammad", "Ali"],
 }
